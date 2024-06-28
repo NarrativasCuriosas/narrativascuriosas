@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Disclaimer de Sátira</title>
+</head>
+<body>
+    <h1>Disclaimer de Sátira</h1>
+    <p>
+        Este site/página contém conteúdo satírico e humorístico. Todas as informações, personagens, eventos e situações descritos aqui são fictícios e não guardam qualquer relação com a realidade. Qualquer semelhança com pessoas, vivas ou mortas, ou com eventos reais, é mera coincidência. Este conteúdo tem o objetivo exclusivo de entreter e não deve ser interpretado como fatos ou informações verídicas.
+    </p>
+    <p>
+        Agradecemos a compreensão.
+    </p>
+</body>
+</html>
